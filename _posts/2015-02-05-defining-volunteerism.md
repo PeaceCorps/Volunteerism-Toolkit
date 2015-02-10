@@ -4,7 +4,7 @@ category: blog
 layout: blog
 ---
 
-We frequently use the following terms interchangeably when discussing service. Let's clarify with brief distinctions between each of the following:
+We would frequently use the following terms interchangeably when discussing service. Let's clarify with brief distinctions between each of the following:
 
 - Advocacy- the Peace Corps data definition sheet describes advocacy as the process or act of supporting a cause. Ad-Voc-Acy means giving voice. See also the [Peace Corp's Advocacy Training Package](http://inside.peacecorps.gov/index.cfm?viewDocument&document_id=51289&filetype=htm).
 
