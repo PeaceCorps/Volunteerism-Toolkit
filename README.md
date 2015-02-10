@@ -32,7 +32,7 @@ The files and links in this repository use a text format known as Markdown. Mark
 
 ###### Local Development
 
-To work on the site locally, run `jekyll serve --watch`, then visit `http://localhost:4000/technology-for-development-toolkit/` in your browser.
+To work on the site locally, run `jekyll serve --watch`, then visit `http://localhost:4000/volunteerism-toolkit/` in your browser.
 
 #### Disclaimer
 
