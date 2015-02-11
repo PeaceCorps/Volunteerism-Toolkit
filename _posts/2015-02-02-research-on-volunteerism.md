@@ -1,7 +1,8 @@
 ---
-published: true
-category: blog
 layout: blog
+category: blog
+published: true
+title: Untitled
 ---
 
 ### Associations and Networks
@@ -14,7 +15,7 @@ Community Service Volunteers (CSV) Resources
 
 - A volunteering and social action charity that provides research, publications and evaluations on volunteering in the United Kingdom.
 
-### Corporation for National and Community Service [Volunteering and Civic Life in America](http://www.volunteeringinamerica.gov/)
+Corporation for National and Community Service [Volunteering and Civic Life in America](http://www.volunteeringinamerica.gov/)
 
 - This site is home to a comprehensive look at volunteering and civic life in the 50 states and 51 cities across the country. Data includes volunteer rates and rankings, civic engagement trends, and analysis.
 
