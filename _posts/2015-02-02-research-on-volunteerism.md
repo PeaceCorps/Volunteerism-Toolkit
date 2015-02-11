@@ -4,23 +4,22 @@ category: blog
 layout: blog
 ---
 
-    **Associations and Networks**
+### Associations and Networks
 
-*   **Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA)**
-        [Publications/Research](http://www.arnova.org/)
+Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA) [Publications/Research](http://www.arnova.org/)
 
-            An Interdisciplinary community dedicated to fostering through research and education, the creation, application and dissemination of knowledge on
-        nonprofit organizations, philanthropy, civil society and voluntary action.
-*   **Community Service Volunteers**
-        (CSV) Resources
+- An Interdisciplinary community dedicated to fostering through research and education, the creation, application and dissemination of knowledge on nonprofit organizations, philanthropy, civil society and voluntary action.
 
-    A volunteering and social action charity that provides research, publications and evaluations on volunteering in the United Kingdom.
+Community Service Volunteers (CSV) Resources
 
-*   **Corporation for National and Community Service **
-        [Volunteering and Civic Life in America](http://www.volunteeringinamerica.gov/)
+- A volunteering and social action charity that provides research, publications and evaluations on volunteering in the United Kingdom.
 
-            This site is home to a comprehensive look at volunteering and civic life in the 50 states and 51 cities across the country. Data includes volunteer
-        rates and rankings, civic engagement trends, and analysis.
+### Corporation for National and Community Service [Volunteering and Civic Life in America](http://www.volunteeringinamerica.gov/)
+
+- This site is home to a comprehensive look at volunteering and civic life in the 50 states and 51 cities across the country. Data includes volunteer rates and rankings, civic engagement trends, and analysis.
+
+___
+
 *   **Energize, Inc.**
         ’s Research on Volunteering
 
