@@ -5,7 +5,7 @@ published: true
 title: Research on Volunteerism
 ---
 
-### Associations and Networks
+### **Associations and Networks**
 
 * Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA) [Publications/Research](http://www.arnova.org/)
 
@@ -19,24 +19,22 @@ title: Research on Volunteerism
 
 - This site is home to a comprehensive look at volunteering and civic life in the 50 states and 51 cities across the country. Data includes volunteer rates and rankings, civic engagement trends, and analysis.
 
-
-
 *   Energize, Inc.’s Research on Volunteering
-
-            Reports and studies on volunteering, including academic research and government, large nonprofits, or corporation studies.
-*   **Idealist’s**
+- Reports and studies on volunteering, including academic research and government, large nonprofits, or corporation studies.
+  
+*   Idealist’s
         [Research on Volunteerism ](http://www.idealist.org/info/VolunteerMgmt/Research)
         links
 
     Idealist offers a compendium of resource links to leading research on volunteerism.
 
-*   **UN Volunteer’s**
+*   UN Volunteer’s
         [World Volunteer Web Research](http://www.worldvolunteerweb.org/browse/volunteering-issues/volunteering-research.html) UN Volunteer’s online compendium of Volunteerism research
 
-*   **International Society for Third Sector**
+*  International Society for Third Sector
         [ Research](http://www.istr.org/)
         promotes research and education in the fields of civil society, philanthropy, and the nonprofit sector.
-*   **UN Volunteers **
+*   UN Volunteers
         [United Nation’s State of the World’s Volunteerism Report](http://www.unv.org/swvr2011)
 
     The State of the World’s Volunteerism Report (SWVR) aims to promote a better understanding of volunteerism. It demonstrates the universality, scope and
@@ -46,7 +44,7 @@ title: Research on Volunteerism
 *   **Volunteering Australia**
         Library Network (Avalon)
 
-### Institutes and Universities
+### **Institutes and Universities**
 
 *   **The Institute for Volunteering Research (IVR)**
         Evidence Bank is a searchable database of over 200 research, reports, bulletins, publications and journal articles on Volunteering, primarily in the
@@ -68,7 +66,7 @@ title: Research on Volunteerism
     The Center for Social Development (CSD) conducts research in civic engagement and service. CSD focuses on four broad areas of research: 1. International
     service; 2. national service; 3. continuous service; and 4. Civic engagement and service.
 
-### Monitoring and Evaluation
+### **Monitoring and Evaluation**
 
 *   **The Corporation for National and Community Service**
         ’s
