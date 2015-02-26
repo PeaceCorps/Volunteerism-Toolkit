@@ -6,7 +6,7 @@ layout: blog
 
 We would frequently use the following terms interchangeably when discussing service. Let's clarify with brief distinctions between each of the following:
 
-- #####**Advocacy**- the Peace Corps data definition sheet describes advocacy as the process or act of supporting a cause. Ad-Voc-Acy means giving voice. See also the [Peace Corp's Advocacy Training Package](http://inside.peacecorps.gov/index.cfm?viewDocument&document_id=51289&filetype=htm).
+- **Advocacy**- the Peace Corps data definition sheet describes advocacy as the process or act of supporting a cause. Ad-Voc-Acy means giving voice. See also the [Peace Corp's Advocacy Training Package](http://inside.peacecorps.gov/index.cfm?viewDocument&document_id=51289&filetype=htm).
 
 - **Civic Education** – Educating youth on different civic engagement activities, including 1. Participating in community problem solving, 2. Regular volunteering, 3. Active membership in groups or associations, 4. Participating in fund-raising activities, or 5. Engaging local officials or leaders in decision making.
 
