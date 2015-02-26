@@ -4,9 +4,9 @@ category: blog
 layout: blog
 ---
 
-We would frequently use the following terms interchangeably when discussing service. Let's clarify with brief distinctions between each of the following:
+We frequently use the following terms interchangeably when discussing service. Let's clarify with brief distinctions between each of the following:
 
-- **Advocacy**- the Peace Corps data definition sheet describes advocacy as the process or act of supporting a cause. Ad-Voc-Acy means giving voice. See also the [Peace Corp's Advocacy Training Package](http://inside.peacecorps.gov/index.cfm?viewDocument&document_id=51289&filetype=htm).
+- **Advocacy**- the Peace Corps describes advocacy as the process or act of supporting a cause. Ad-Voc-Acy means giving voice. See also the [Peace Corp's Advocacy Training Package](http://inside.peacecorps.gov/index.cfm?viewDocument&document_id=51289&filetype=htm).
 
 - **Civic Education** – Educating youth on different civic engagement activities, including 1. Participating in community problem solving, 2. Regular volunteering, 3. Active membership in groups or associations, 4. Participating in fund-raising activities, or 5. Engaging local officials or leaders in decision making.
 
@@ -20,6 +20,6 @@ We would frequently use the following terms interchangeably when discussing serv
 
 - **Service** – Carrying out service to benefit others or one's community without the expectation of external rewards. 
 
-- **Service Learning** combines service objectives with learning objectives with the intent that the activity changes both the recipient and the provider of the service. Building in learning goals and reflection on the part of the participants distinguishes service-learning from other types of service. [The Volunteerism Action Guide: Multiplying the Power of Service](http://files.peacecorps.gov/multimedia/pdf/library/CD062_V2_English.pdf) walks through the steps for Service Learning. See also the [Peace Corp's Volunteerism and Service Learning Training Package](http://inside.peacecorps.gov/index.cfm?viewDocument&document_id=40597&filetype=htm).
+- **Service Learning** - Combines service objectives with learning objectives with the intent that the activity changes both the recipient and the provider of the service. Building in learning goals and reflection on the part of the participants distinguishes service-learning from other types of service. [The Volunteerism Action Guide: Multiplying the Power of Service](http://files.peacecorps.gov/multimedia/pdf/library/CD062_V2_English.pdf) walks through the steps for Service Learning. See also the [Peace Corp's Volunteerism and Service Learning Training Package](http://inside.peacecorps.gov/index.cfm?viewDocument&document_id=40597&filetype=htm).
 
 - **Volunteerism** – Volunteerism is commonly and simply defined as voluntary (not required); unpaid; and benefiting others. For a more complete, definition, see the [State of the World's Volunteerism Report](file://///dcna_cifs.peacecorps.gov/users/kscheuerer/Volunteerism/TAG/Volunteerism Toolkit/%EF%82%A7%09http:/www.unv.org/fileadmin/docdb/pdf/2011/SWVR/English/SWVR2011_full_%5b04%5d_chapter1.pdf). See also the [Peace Corp's Volunteerism and Service Learning Training Package](http://inside.peacecorps.gov/index.cfm?viewDocument&document_id=40597&filetype=htm).
