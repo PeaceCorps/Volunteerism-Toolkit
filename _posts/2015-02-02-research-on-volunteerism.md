@@ -7,7 +7,7 @@ title: Research on Volunteerism
 
 ### **Associations and Networks**
 
-* _Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA)_ [Publications/Research](http://www.arnova.org/)  
+* _Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA)_ [Publications and Research](http://www.arnova.org/)  
 An Interdisciplinary community dedicated to fostering through research and education, the creation, application and dissemination of knowledge on nonprofit organizations, philanthropy, civil society and voluntary action.
 
 * _Community Service Volunteers (CSV)_ [Resources](http://www.csv.org.uk/Resources/)  
@@ -16,7 +16,7 @@ A volunteering and social action charity that provides research, publications an
 * _Corporation for National and Community Service_ [Volunteering and Civic Life in America](http://www.volunteeringinamerica.gov/)  
 This site is home to a comprehensive look at volunteering and civic life in the 50 states and 51 cities across the country. Data includes volunteer rates and rankings, civic engagement trends, and analysis.
 
-* _Energize, Inc.’s_ [Research on Volunteering](https://www.energizeinc.com/a-z/library/82)  
+* _Energize, Inc.’s_ [Volunteering Research](https://www.energizeinc.com/a-z/library/82)  
 Reports and studies on volunteering, including academic research and government, large nonprofits, or corporation studies.
   
 * _Idealist’s_ [Research on Volunteerism ](http://www.idealist.org/info/VolunteerMgmt/Research)  
