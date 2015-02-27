@@ -7,7 +7,8 @@ title: Research on Volunteerism
 
 ### **Associations and Networks**
 
-* **_Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA)_** [Publications/Research](http://www.arnova.org/)  An Interdisciplinary community dedicated to fostering through research and education, the creation, application and dissemination of knowledge on nonprofit organizations, philanthropy, civil society and voluntary action.
+* **_Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA)_** [Publications/Research](http://www.arnova.org/)  
+An Interdisciplinary community dedicated to fostering through research and education, the creation, application and dissemination of knowledge on nonprofit organizations, philanthropy, civil society and voluntary action.
 
 * **_Community Service Volunteers (CSV)_** [Resources](http://www.csv.org.uk/Resources/)  A volunteering and social action charity that provides research, publications and evaluations on volunteering in the United Kingdom.
 
