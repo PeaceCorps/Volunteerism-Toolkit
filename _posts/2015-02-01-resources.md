@@ -43,10 +43,7 @@
 *   [GIZ - Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](http://www.giz.de/)
         - places German development workers at the request of governmental and non-governmental organizations in its partner countries and on the basis of
         framework agreements with the respective governments.
-
-# 
-    · [HVSF ](http://www.hvsf.hu/presentation-of-our-mission.html)- Hungarian Volunteer Sending Foundation fosters relationship with organizations
-    specialized in carrying out developmental and aid projects.
+* [Hungarian Volunteer Sending Foundation (HVSF)] (http://www.hvsf.hu/presentation-of-our-mission.html)- HVSF fosters relationship with organizations specialized in carrying out developmental and aid projects.
 
 *   [Unité](http://www.unite-ch.org/)
         - works in partnership with the Swiss Agency for Development and Cooperation (SDC) for efficient, sustainable and equitable cooperation and personal
@@ -58,7 +55,7 @@
 *   [Zavod Voluntariat](http://www.zavod-voluntariat.si/?lang=en)
         assists volunteers from Slovenia to work on international volunteering programs in various countries around the globe.
 
-    **Service learning Organizations**
+### **Service learning Organizations**
 
 *   [National Youth Leadership Council](http://www.nylc.org/)
         ** **
