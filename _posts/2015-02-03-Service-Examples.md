@@ -193,7 +193,7 @@ layout: blog
             Innovations in Civic Participation
         ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/zambia/)
 
-    **Europe, Middle East, and Asia**
+### **Europe, Middle East, and Asia**
 
     **Albania **
 
@@ -308,7 +308,7 @@ layout: blog
             Innovations in Civic Participation
         ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/southeast-asia/timor-leste/)
 
-    **Inter-America and Pacific**
+### **Inter-America and Pacific**
 
     **Antigua &amp; Barbuda**
 
