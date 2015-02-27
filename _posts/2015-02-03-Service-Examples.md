@@ -27,7 +27,7 @@ layout: blog
 **Ethiopia **
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/ethiopia.html)
 
-**The Gambia **
+**The Gambia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/gambia.html)
 *   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/gambia/)
 
@@ -36,10 +36,10 @@ layout: blog
 *   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/ghana/)
 *   [National Service Scheme](http://www.nssghana.org/)
 
-**Guinea **
+**Guinea**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/guinea.html)
 
-**Kenya **
+**Kenya**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/kenya.html)
 *   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/kenya/)
 *   [Volunteering for Peace in East Africa](http://csd.wustl.edu/Publications/Documents/WP12-29.pdf)
