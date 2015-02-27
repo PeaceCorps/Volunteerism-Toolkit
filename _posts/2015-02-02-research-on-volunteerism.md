@@ -39,7 +39,7 @@ Research and advocacy resources.
 * _The Institute for Volunteering Research (IVR)_ [Evidence Bank](http://www.ivr.org.uk/ivr-evidence-bank)  
 This is a searchable database of over 200 research, reports, bulletins, publications and journal articles on Volunteering, primarily in th United Kingdom.
 
-* _Search Institute_[Research](http://www.search-institute.org/)  
+* _Search Institute_ [Research](http://www.search-institute.org/)  
 The Search Institute links research and practice to address critical issues in education and youth development with a focus on building on young people’s strengths.  
 
 * _Johns Hopkins University_ [Center for Civil Society Studies](http://ccss.jhu.edu/)  
