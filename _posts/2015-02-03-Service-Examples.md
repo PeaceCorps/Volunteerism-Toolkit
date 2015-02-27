@@ -11,181 +11,100 @@ layout: blog
 
 **Botswana**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/botswana.html)
-*   [Innovations in Civic Participation Database](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/botswana/)
+*   [Innovations in Civic Participation Database](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/botswana/)  
 *   [Research Partnership Builds the Service Field in Africa](http://www.worldvolunteerweb.org/resources/research-reports/national/doc/research-partnerships-build-the.html)
 
-    **Burkina Faso **
-
+**Burkina Faso** 
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/burkina-faso.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/burkina-faso/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/burkina-faso/)
 
-    **Cameroon **
-
+**Cameroon** 
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/cameroon.html)
 
-    **Comoros**
-
+**Comoros**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/comoros.html)
 
-    **Ethiopia **
-
+**Ethiopia **
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/ethiopia.html)
 
-    **The Gambia **
-
+**The Gambia **
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/gambia.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/gambia/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/gambia/)
 
-    **Ghana **
-
+**Ghana**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/ghana.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/ghana/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/ghana/)
 *   [National Service Scheme](http://www.nssghana.org/)
 
-    **Guinea **
-
+**Guinea **
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/guinea.html)
 
-    **Kenya **
-
+**Kenya **
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/kenya.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/kenya/)
-        **<u></u>**
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/kenya/)
 *   [Volunteering for Peace in East Africa](http://csd.wustl.edu/Publications/Documents/WP12-29.pdf)
 
-    **Lesotho **
-
+**Lesotho**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/lesotho.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/lesotho/)
-        **<u></u>**
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/lesotho/)
 *   [Civic Service in Lesotho](http://csd.wustl.edu/Publications/Documents/RP08-34.pdf)
-        **<u>: Local Sources and US Connections</u>**
 
-    **Liberia **
-
+**Liberia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/liberia.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/liberia/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/liberia/)
 
-    **Madagascar **
-
+**Madagascar**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/madagascar.html)
 
-    **Malawi **
-
+**Malawi**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/malawi.html)
-        **<u></u>**
-*   [
-            Research Partnership Builds the Service Field in South Africa
-        ](http://www.worldvolunteerweb.org/resources/research-reports/national/doc/research-partnerships-build-the.html)
+*   [Research Partnership Builds the Service Field in South Africa](http://www.worldvolunteerweb.org/resources/research-reports/national/doc/research-partnerships-build-the.html)
 
-    **Mali **
-
+**Mali**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/mali.html)
-*   [
-            Innovations in Civic Participation Database
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/north-africa/mali/)
+*   [Innovations in Civic Participation Database](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/north-africa/mali/)
 
-    **Mozambique **
-
+**Mozambique**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/mozambique.html)
 
-    **Namibia **
-
+*Namibia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/namibia.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/namibia/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/namibia/)
 
-    **Philippines **
-
-*   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/philippines.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/southeast-asia/the-philippines/)
-
-    **Rwanda **
-
+**Rwanda**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/rwanda.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/rwanda/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/rwanda/)
 
-    **Saint Lucia **
-
-*   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/saint-lucia.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/caribbean/saint-lucia/)
-
-    **Samoa **
-
-*   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/samoa.html)
-
-    **Senegal **
-
+**Senegal**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/senegal.html)
-*   [
-            Innovations in Civic Participations
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/senegal/)
+*   [Innovations in Civic Participations](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/senegal/)
 
-    **Sierra Leone **
-
+**Sierra Leone**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/sierra-leone.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/sierra-leone/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/sierra-leone/)
 
-    **South Africa **
-
+**South Africa**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/south-africa.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/south-africa/)
-        **<u></u>**
-*   [
-            Research Partnership Builds the Service Field in Africa
-        ](http://www.worldvolunteerweb.org/resources/research-reports/national/doc/research-partnerships-build-the.html)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/south-africa/)
+*   [Research Partnership Builds the Service Field in Africa](http://www.worldvolunteerweb.org/resources/research-reports/national/doc/research-partnerships-build-the.html)
 
-    **Swaziland **
-
+**Swaziland**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/swaziland.html)
 
-    **Tanzania **
-
+**Tanzania**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/tanzania-united-republic-of.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/tanzania/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/tanzania/)
 
-    **Togo **
-
+**Togo**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/togo.html)
 
-    **Uganda **
-
+**Uganda**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/uganda.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/uganda/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/uganda/)
 
-    **Zambia **
-
+**Zambia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/zambia.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/zambia/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/zambia/)
 
 ### **Europe, Middle East, and Asia**
 
