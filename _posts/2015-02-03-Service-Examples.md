@@ -4,11 +4,10 @@ category: blog
 layout: blog
 ---
 
-    **Africa**
+### **Africa**
 
-    **Benin **
-
-*   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/benin.html)
+**Benin**
+    [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/benin.html)
 
     **Botswana **
 
