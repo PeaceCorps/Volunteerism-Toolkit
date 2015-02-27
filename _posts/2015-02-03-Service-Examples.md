@@ -6,10 +6,10 @@ layout: blog
 
 ### **Africa**
 
-**Benin**
+**Benin**  
 * [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/benin.html)
 
-**Botswana **
+**Botswana**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/botswana.html)
 *   [Innovations in Civic Participation Database](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/botswana/)
 *   [Research Partnership Builds the Service Field in Africa](http://www.worldvolunteerweb.org/resources/research-reports/national/doc/research-partnerships-build-the.html)
