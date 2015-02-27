@@ -41,19 +41,13 @@
 *   [France Volontaires - ](http://www.france-volontaires.org/)
         is the French national government Volunteer sending organization
 *   [GIZ - Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](http://www.giz.de/)
-        - places German development workers at the request of governmental and non-governmental organizations in its partner countries and on the basis of
-        framework agreements with the respective governments.
+        - places German development workers at the request of governmental and non-governmental organizations in its partner countries and on the basis of framework agreements with the respective governments.
 * [Hungarian Volunteer Sending Foundation (HVSF)] (http://www.hvsf.hu/presentation-of-our-mission.html)- HVSF fosters relationship with organizations specialized in carrying out developmental and aid projects.
-
 *   [Unité](http://www.unite-ch.org/)
         - works in partnership with the Swiss Agency for Development and Cooperation (SDC) for efficient, sustainable and equitable cooperation and personal
         exchange with partners in the South.
-*   [VSA](http://www.vsa.org.nz/)
-        ** (**
-        **Volunteer Service Abroad)**
-        are New Zealand’s overseas volunteer-sending agency.
-*   [Zavod Voluntariat](http://www.zavod-voluntariat.si/?lang=en)
-        assists volunteers from Slovenia to work on international volunteering programs in various countries around the globe.
+*   [Volunteer Service Abroad (VSA)](http://www.vsa.org.nz/) - New Zealand’s overseas volunteer-sending agency.
+*   [Zavod Voluntariat](http://www.zavod-voluntariat.si/?lang=en) - Assists volunteers from Slovenia to work on international volunteering programs in various countries around the globe.
 
 ### **Service learning Organizations**
 
