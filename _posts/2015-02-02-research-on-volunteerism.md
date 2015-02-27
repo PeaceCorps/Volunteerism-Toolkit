@@ -42,34 +42,34 @@ This is a searchable database of over 200 research, reports, bulletins, publicat
 * **_Search Institute_**[Research](http://www.search-institute.org/)  
 The Search Institute links research and practice to address critical issues in education and youth development with a focus on building on young people’s strengths.  
 
-* **_Johns Hopkins University_**[Center for Civil Society Studies](http://ccss.jhu.edu/)  
+* **_Johns Hopkins University_** [Center for Civil Society Studies](http://ccss.jhu.edu/)  
 The Center conducts research and educational programs that seek to improve current understanding, analyze emerging trends, and promote promising innovations in the ways that government, civil society, and business can collaborate to address social and environmental challenges.
 
-* **_Washington University’s Center for Social Development’s (CSD)_**[Civic Service Publications](http://csd.wustl.edu/OurWork/CivicService/Pages/Overview.aspx)  
+* **_Washington University’s Center for Social Development’s (CSD)_** [Civic Service Publications](http://csd.wustl.edu/OurWork/CivicService/Pages/Overview.aspx)  
 CSD conducts research in civic engagement and service. CSD focuses on four broad areas of research: 1. International service; 2. national service; 3. continuous service; and 4. Civic engagement and service.
 
 ### **Monitoring and Evaluation**
 
-* **_The Corporation for National and Community Service’s_**[Monitoring and Evaluating National Service Corps Members](https://www.nationalserviceresources.gov/monitoring-and-evaluating-members#.VJiaxl4bkA)
+* **_The Corporation for National and Community Service’s_** [Monitoring and Evaluating National Service Corps Members](https://www.nationalserviceresources.gov/monitoring-and-evaluating-members#.VJiaxl4bkA)
 
 * **_International Labor Office (ILO)_**
         [Manual on the Measurement of Volunteer Work](https://censimentoindustriaeservizi.istat.it/rete/fileadmin/documenti/materiali_di_approfondimento/measurement_of_volunteer_work.pdf)  
 The manual guides countries in generating systematic and comparable data on volunteer work that is required to carry out the 2001 United Nations General Assembly mandate for governments to “establish the economic value of volunteering.” Also see the  [Global Volunteer Measurement Project](http://volunteermeasurement.org/data).
 
-* **_UN Volunteers_**[Assessing the Value of Volunteering to Development](http://www.unv.org/fileadmin/docdb/unv/pdf/UNV%20Assessing_web%20version.pdf)
+* **_UN Volunteers_** [Assessing the Value of Volunteering to Development](http://www.unv.org/fileadmin/docdb/unv/pdf/UNV%20Assessing_web%20version.pdf)
 
-* **_The Independent Sector and United Nation’s Volunteers_**[Measuring Volunteering: A Practical Toolkit](http://www.unv.org/en/news-resources/resources/on-volunteerism/doc/measuring-volunteering-toolkit.html)  
+* **_The Independent Sector and United Nation’s Volunteers_** [Measuring Volunteering: A Practical Toolkit](http://www.unv.org/en/news-resources/resources/on-volunteerism/doc/measuring-volunteering-toolkit.html)  
 Researchers and practitioners from ten countries produced this practical toolkit on measuring volunteering.
 
 ### **Volunteering by Generations**
 
-* **_Harvard School of Public Health-MetLife Foundation_**[Reinventing Aging: Baby Boomers and Civic Engagement](http://assets.aarp.org/rgcenter/general/boomers_engagement.pdf)  
+* **_Harvard School of Public Health-MetLife Foundation_** [Reinventing Aging: Baby Boomers and Civic Engagement](http://assets.aarp.org/rgcenter/general/boomers_engagement.pdf)  
 This research is an initiative on Retirement and Civic Engagement
 
-* **_Energize, Inc.’_**[Working with Older Volunteers](https://www.energizeinc.com/a-z/library/67)
+* **_Energize, Inc.’_** [Working with Older Volunteers](https://www.energizeinc.com/a-z/library/67)
 
-* **_UN’s World Volunteer Web_**[Young People and Volunteering](http://www.worldvolunteerweb.org/resources/how-to-guides/manage-volunteers/doc/subject-guide-young-people-and.html)  
+* **_UN’s World Volunteer Web_** [Young People and Volunteering](http://www.worldvolunteerweb.org/resources/how-to-guides/manage-volunteers/doc/subject-guide-young-people-and.html)  
 Research findings, strategies and tips.
 
-* **_UN’s World Volunteer Web_**[Youth volunteering, social integration and decent work: Inspiring leadership](http://www.worldvolunteerweb.org/resources/publications/other-publications/doc/youth-volunteering-social-integration.html)
+* **_UN’s World Volunteer Web_** [Youth volunteering, social integration and decent work: Inspiring leadership](http://www.worldvolunteerweb.org/resources/publications/other-publications/doc/youth-volunteering-social-integration.html)
 
