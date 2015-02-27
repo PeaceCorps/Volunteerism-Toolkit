@@ -3,9 +3,9 @@
 ### **International Volunteerism Organizations**
 
 
-*   [International Forum for Volunteering in Development - ](http://forum-ids.org/) - A global network of International Volunteer Co-operation Organisations (IVCO). Forum exists to share information, develop good practice and enhance
+*   [International Forum for Volunteering in Development](http://forum-ids.org/) - A global network of International Volunteer Co-operation Organisations (IVCO). Forum exists to share information, develop good practice and enhance
         co-operation across the international volunteering and development sectors.
-*   [International Association of the Volunteer Effort](http://www.iave.org/)([IAVE](http://www.iave.org/)) - A global network of volunteers, volunteer organisations, national representatives and volunteer centres, with members in over 70 countries, and in all world regions.
+*   [International Association of the Volunteer Effort (IAVE)](http://www.iave.org/) - A global network of volunteers, volunteer organisations, national representatives and volunteer centres, with members in over 70 countries, and in all world regions.
 *   International [HandsOnNetwork](http://www.handsonnetwork.org/actioncenters/newmembers) - Affiliates mobilize volunteers in millions of hours of service through partnerships with over 70,000 corporate, faith and nonprofit organizations.
 
 ### **International Sending Volunteer Organizations**
@@ -23,12 +23,10 @@
 *   [Australian Volunteers for International Development ](http://www.australianaidvolunteers.gov.au/)
         <u>(</u>
         AVID) - The Australian Government funded overseas volunteering initiatives.
-*   [
-            VSO - Independent international development organisation that works through volunteers to fight poverty in developing countries.
-        ](http://www.vsointernational.org/)
+*   [VSO] (http://www.vsointernational.org/)- Independent international development organisation that works through volunteers to fight poverty in developing countries.
+        ]
 *   [CUSO -](http://www.cusointernational.org/)
-        Cuso International recruits American, Canadian, Latin American and Caribbean citizens, and is a strategic alliance partner of **VSO,** a
-        leading global development organization that works through volunteers.
+        Cuso International recruits American, Canadian, Latin American and Caribbean citizens, and is a strategic alliance partner of VSO, a leading global development organization that works through volunteers.
 *   [JICA](http://www.jica.go.jp/english/)
 - Japan International Cooperation Agency (JICA) provides technical cooperation and other forms of aid promoting economic and social development in        [developing countries](http://en.wikipedia.org/wiki/Developing_countries).
 *   [FK Norway - ](http://www.fredskorpset.no/en/)
