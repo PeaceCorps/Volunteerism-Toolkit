@@ -11,7 +11,7 @@ title: Research on Volunteerism
 
 - An Interdisciplinary community dedicated to fostering through research and education, the creation, application and dissemination of knowledge on nonprofit organizations, philanthropy, civil society and voluntary action.
 
-* Community Service Volunteers (CSV) Resources
+* Community Service Volunteers (CSV) [Resources](http://www.csv.org.uk/Resources/)
 
 - A volunteering and social action charity that provides research, publications and evaluations on volunteering in the United Kingdom.
 
@@ -19,12 +19,10 @@ title: Research on Volunteerism
 
 - This site is home to a comprehensive look at volunteering and civic life in the 50 states and 51 cities across the country. Data includes volunteer rates and rankings, civic engagement trends, and analysis.
 
-*   Energize, Inc.’s Research on Volunteering
+*   Energize, Inc.’s [Research on Volunteering](https://www.energizeinc.com/a-z/library/82)
 - Reports and studies on volunteering, including academic research and government, large nonprofits, or corporation studies.
   
-*   Idealist’s
-        [Research on Volunteerism ](http://www.idealist.org/info/VolunteerMgmt/Research)
-        links
+*   Idealist’s [Research on Volunteerism ](http://www.idealist.org/info/VolunteerMgmt/Research)
 
     Idealist offers a compendium of resource links to leading research on volunteerism.
 
@@ -37,18 +35,16 @@ title: Research on Volunteerism
 *   UN Volunteers
         [United Nation’s State of the World’s Volunteerism Report](http://www.unv.org/swvr2011)
 
-    The State of the World’s Volunteerism Report (SWVR) aims to promote a better understanding of volunteerism. It demonstrates the universality, scope and
-    reach of volunteerism along with new trends in the twenty-first century. The report examines important contributions in diverse fields such as sustainable
+    The report demonstrates the universality, scope and reach of volunteerism along with new trends in the twenty-first century. The report examines important contributions in diverse fields such as sustainable
     livelihoods, social inclusion, social cohesion and disaster risk reduction.
 
 *   **Volunteering Australia**
-        Library Network (Avalon)
+        [Library Network Avalon](http://www.volunteeringaustralia.org/research-and-advocacy/)
 
 ### **Institutes and Universities**
 
-*   **The Institute for Volunteering Research (IVR)**
-        Evidence Bank is a searchable database of over 200 research, reports, bulletins, publications and journal articles on Volunteering, primarily in the
-        United Kingdom. The Institute is home to research on volunteerism and the publication the Journal of the Institute for Volunteering Research.
+*   The Institute for Volunteering Research (IVR) [Evidence Bank](http://www.ivr.org.uk/ivr-evidence-bank) 
+*   This is a searchable database of over 200 research, reports, bulletins, publications and journal articles on Volunteering, primarily in th United Kingdom. The Institute is home to research on volunteerism and the publication the Journal of the Institute for Volunteering Research.
 *   **Search Institute**
         [Research](http://www.search-institute.org/)
         . The Search Institute links research and practice to address critical issues in education and youth development with a focus on building on young
