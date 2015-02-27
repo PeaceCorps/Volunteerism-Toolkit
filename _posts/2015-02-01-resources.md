@@ -26,10 +26,9 @@
 *   [VSO] (http://www.vsointernational.org/)- Independent international development organisation that works through volunteers to fight poverty in developing countries.
 *   [CUSO -](http://www.cusointernational.org/)
         Cuso International recruits American, Canadian, Latin American and Caribbean citizens, and is a strategic alliance partner of VSO, a leading global development organization that works through volunteers.
-*   [JICA](http://www.jica.go.jp/english/) - Japan International Cooperation Agency (JICA) provides technical cooperation and other forms of aid promoting economic and social development in        [developing countries](http://en.wikipedia.org/wiki/Developing_countries).
+*   [JICA](http://www.jica.go.jp/english/) - Japan International Cooperation Agency (JICA) provides technical cooperation and other forms of aid promoting economic and social development in developing countries.
 *   [FK Norway - ](http://www.fredskorpset.no/en/)
-        FK Norway’s participants take part in exchange between Norway and countries in Africa, Asia and Latin America. The exchange may also take place between
-        developing countries.
+        FK Norway’s participants take part in exchange between Norway and countries in Africa, Asia and Latin America. The exchange may also take place between developing countries.
 *   [France Volontaires - ](http://www.france-volontaires.org/) - The French national government Volunteer sending organization
 *   [GIZ - Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH](http://www.giz.de/)
         - Places German development workers at the request of governmental and non-governmental organizations in its partner countries and on the basis of framework agreements with the respective governments.
