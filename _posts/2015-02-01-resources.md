@@ -43,11 +43,8 @@
 
 *   [National Youth Leadership Council](http://www.nylc.org/) - The host of the annual National Service-Learning Conference, NYLC offers research-based programs and services to give every student a chance to become a
     leader and solve real-world problems.
-
 *   [National Service Learning Clearinghouse](https://gsn.nylc.org/clearinghouse) - This site offers thousands of free online resources for K-12, higher education, community based organization, and tribal communities. 
-
 *   [National Service Resource Center](http://www.nationalserviceresources.org/) - The Corporation for National and Community Service’s resources on a variety of service and service learning programs
-
 *   [The Center for information &amp; Research on Civic Learning and Engagement](http://www.civicyouth.org/)
         (CIRCLE) - This center at Tufts University conducts research on civic education in schools, colleges, and community settings and political participation, service, activism, media use, and other forms of civic engagement.
 
