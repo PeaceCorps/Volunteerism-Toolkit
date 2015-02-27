@@ -24,7 +24,7 @@ layout: blog
 **Comoros**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/comoros.html)
 
-**Ethiopia **
+**Ethiopia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/ethiopia.html)
 
 **The Gambia**
@@ -67,7 +67,7 @@ layout: blog
 **Mozambique**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/mozambique.html)
 
-*Namibia**
+**Namibia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/namibia.html)
 *   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/west-sub-saharan-africa/namibia/)
 
@@ -108,238 +108,142 @@ layout: blog
 
 ### **Europe, Middle East, and Asia**
 
-    **Albania **
-
+**Albania**
 *   [World Volunteer Web – Albania](http://www.worldvolunteerweb.org/browse/countries/albania.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/europe-2/eastern-europe-and-commonwealth-of-independent-states/albania/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/europe-2/eastern-europe-and-commonwealth-of-independent-states/albania/)
 
-    **Cambodia **
-
+**Cambodia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/cambodia.html)
-        ** **
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/southeast-asia/cambodia/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/southeast-asia/cambodia/)
 
-    **China **
-
+**China**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/china.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/east-asia/china/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/east-asia/china/)
 
-    **Georgia **
-
+**Georgia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/georgia.html)
 
-    **Indonesia **
-
+**Indonesia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/indonesia.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/southeast-asia/indonesia/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/southeast-asia/indonesia/)
 
-    **Jordan **
-
+**Jordan**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/jordan.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/west-asia-middle-east/jordan/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/west-asia-middle-east/jordan/)
 
-    **Kyrgyz Republic **
-
+**Kyrgyz Republic**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/kyrgyzstan.html)
 
-    **Kosovo **
+**Kosovo**
+*   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/kosovo-all-references-to-kosovo-on-this-website-are-made-in-the-context-of-un-security-council-resolution-1244-1999.html)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/europe-2/eastern-europe-and-commonwealth-of-independent-states/kosovo/)
 
-*   [
-            World Volunteer Web
-        ](http://www.worldvolunteerweb.org/browse/countries/kosovo-all-references-to-kosovo-on-this-website-are-made-in-the-context-of-un-security-council-resolution-1244-1999.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/europe-2/eastern-europe-and-commonwealth-of-independent-states/kosovo/)
-
-    **Macedonia **
-
+**Macedonia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/macedonia-former-yugoslav-republic-of.html)
 
-    **Moldova **
-
+**Moldova**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/moldova-republic-of.html)
 
-    **Mongolia **
-
+**Mongolia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/mongolia.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/east-asia/mongolia/)
-        **<u></u>**
-*   [
-            Sociological Survey on Volunteerism
-        ](http://www.worldvolunteerweb.org/resources/research-reports/national/doc/sociological-survey-on-volunteerism.html)
-        **<u></u>**
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/east-asia/mongolia/)
+*   [Sociological Survey on Volunteerism](http://www.worldvolunteerweb.org/resources/research-reports/national/doc/sociological-survey-on-volunteerism.html)
 *   [Study on the Effects of National United Nations Volunteer Program in Mongolia](http://csd.wustl.edu/Publications/Documents/RP05-26.pdf)
 
-    **Morocco **
-
+**Morocco**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/morocco.html)
 *   [Corps Africa](http://www.corpsafrica.org/)
-*   [
-            Innovations in Civic Participation database
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/north-africa/morocco/)
-*   **Add PC Morocco’s own efforts – including the GYSD guide**
+*   [Innovations in Civic Participation database](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/north-africa/morocco/)
 
-    **Nepal **
-
+**Nepal**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/nepal.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/south-asia-2/nepal/)
-        **<u></u>**
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/south-asia-2/nepal/)
 *   [Volunteerism in Nepal](http://www.worldvolunteerweb.org/resources/research-reports/national/doc/volunteerism-in-nepal.html)
 
-    **Philippines **
-
+**Philippines**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/philippines.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/southeast-asia/the-philippines/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/southeast-asia/the-philippines/)
 
-    **Thailand **
-
+**Thailand**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/thailand.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/southeast-asia/thailand/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/southeast-asia/thailand/)
 
-    **Timor-Leste **
-
+**Timor-Leste**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/timor-leste.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/southeast-asia/timor-leste/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/asia-and-the-pacific/southeast-asia/timor-leste/)
 
 ### **Inter-America and Pacific**
 
-    **Antigua &amp; Barbuda**
-
+**Antigua & Barbuda**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/antigua-and-barbuda.html)
 
-    **Belize**
-
+**Belize**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/belize.html)
 
-    **Colombia**
-
+**Colombia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/colombia.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/south-america/colombia/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/south-america/colombia/)
 
-    **Costa Rica**
-
+**Costa Rica**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/costa-rica.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/central-america/costa-rica/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/central-america/costa-rica/)
 
-    **Dominican Republic**
-
+**Dominican Republic**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/dominican-republic.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/caribbean/dominican-republic/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/caribbean/dominican-republic/)
 
-    **Ecuador **
-
+**Ecuador**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/ecuador.html)
 
-    **El Salvador **
-
+**El Salvador**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/el-salvador.html)
 
-    · PC El Salvador Service Learning resource
-
-    **Fiji **
-
+**Fiji**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/fiji.html)
 *   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/oceania/fiji/)
 
-    **Guatemala **
-
+**Guatemala**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/guatemala.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/central-america/guatemala/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/central-america/guatemala/)
 
-    **Guyana **
-
+**Guyana**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/guyana.html)
 
-    **Jamaica **
-
+**Jamaica**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/jamaica.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/caribbean/jamaica/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/caribbean/jamaica/)
 
-    **Mexico **
-
+**Mexico**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/mexico.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/north-america/mexico/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/north-america/mexico/)
 
-    **Micronesia **
-
+**Micronesia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/micronesia-federated-states-of.html)
 
-    **Nicaragua**
-
+**Nicaragua**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/nicaragua.html)
-*   [
-            Social Volunteerism in Nicaragua
-        ](http://www.worldvolunteerweb.org/resources/research-reports/national/doc/social-volunteerism-in-nicaragua.html)
+*   [Social Volunteerism in Nicaragua](http://www.worldvolunteerweb.org/resources/research-reports/national/doc/social-volunteerism-in-nicaragua.html)
 
-    **Panama **
-
+**Panama**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/panama.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/central-america/panama/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/central-america/panama/)
 
-    **Paraguay **
-
+**Paraguay**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/paraguay.html)
 
-    **Peru **
-
+**Peru**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/peru.html)
 
-    **Saint Lucia**
-
+**Saint Lucia**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/saint-lucia.html)
-*   [
-            Innovations in Civic Participation
-        ](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/caribbean/saint-lucia/)
+*   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/americas/caribbean/saint-lucia/)
 
-    **Samoa **
-
+**Samoa**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/samoa.html)
 
-    **Tonga **
-
+**Tonga**
 *   [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/oceania/tonga/)
 
-    **Vanuatu **
-
+**Vanuatu**
 *   [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/vanuatu.html)
-
-    ** **
-
-**
-
-**
 
