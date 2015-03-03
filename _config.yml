@@ -2,7 +2,7 @@ baseurl: /volunteerism-toolkit
 permalink: pretty
 markdown: rdiscount
 prose:
-  rooturl: '_posts'
+  rooturl: '_pages'
   siteurl: 'http://peacecorps.github.io/volunteerism-toolkit/'
   relativeLinks: 'http://peacecorps.github.io/volunteerism-toolkit/links.jsonp'
   media: 'media'
