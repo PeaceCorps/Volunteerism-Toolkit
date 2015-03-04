@@ -1,12 +1,12 @@
 ---
 
 layout: toolkit
-title: Associations and Networks
+title: Research on Volunteerism
 
 ---
 
 ___
-## Associations
+## Associations and Networks
 
 
 [Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA)](http://www.arnova.org/)  
