@@ -9,7 +9,7 @@ title: Region - Africa
 
 * [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/benin.html)
 
-### Botswan
+### Botswana
 
 * [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/botswana.html)
 * [Innovations in Civic Participation Database](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/botswana/)  
@@ -51,7 +51,7 @@ title: Region - Africa
 
 * [World Volunteer Web](http://www.worldvolunteerweb.org/browse/countries/kenya.html)
 * [Innovations in Civic Participation](http://www.icicp.org/resource-library/icp-publications/global-youth-service-database/africa-2/sub-saharan-africa/kenya/)
-* [Volunteering for P* eace in East Africa](http://csd.wustl.edu/Publications/Documents/WP12-29.pdf)
+* [Volunteering for Peace in East Africa](http://csd.wustl.edu/Publications/Documents/WP12-29.pdf)
 
 ### Lesotho
 
