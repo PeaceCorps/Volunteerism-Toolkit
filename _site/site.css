@@ -77,8 +77,9 @@ h2 {
 
 h3 {
   font-size:20px;
-  margin-bottom:20px;
+  margin-bottom:10px;
   line-height:1.5em;
+  margin-top:10px;
   }
 
 h4, h5 {
@@ -94,7 +95,7 @@ p {
 
 /* Links */
 a {
-  color:#3F405E;
+  color:blue;
   text-decoration:none;
   font-weight:bold;
   -webkit-transition:color 100ms;
