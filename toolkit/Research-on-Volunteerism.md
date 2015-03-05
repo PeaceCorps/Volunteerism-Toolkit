@@ -53,7 +53,8 @@ ___
 ### Monitoring and Evaluation
 
 
-The Corporation for National and Community Service’s [Knowledge Network ](https://www.nationalserviceresources.gov/monitoring-and-evaluating-members#.VJiaxl4bkA)
+[The Corporation for National and Community Service’s Knowledge Network ](https://www.nationalserviceresources.gov/monitoring-and-evaluating-members#.VJiaxl4bkA)
+These networks provide a space to share what's working at the insection of service and economic opportunity, education, environment, healthy futures, and more.
 
 [International Labor Office (ILO) - Manual on the Measurement of Volunteer Work](https://censimentoindustriaeservizi.istat.it/rete/fileadmin/documenti/materiali_di_approfondimento/measurement_of_volunteer_work.pdf)  
 The manual guides countries in generating systematic and comparable data on volunteer work that is required to carry out the 2001 United Nations General Assembly mandate for governments to “establish the economic value of volunteering.” Also see the [Global Volunteer Measurement Project](http://volunteermeasurement.org/data).
