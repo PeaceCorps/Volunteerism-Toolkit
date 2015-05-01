@@ -9,6 +9,8 @@ We frequently use the following terms interchangeably when discussing service. L
 
 - **Advocacy**- The Peace Corps describes advocacy as the process or act of supporting a cause. Ad-Voc-Acy means giving voice. See also the [Peace Corp's Advocacy Training Package](http://inside.peacecorps.gov/index.cfm?viewDocument&document_id=51289&filetype=htm).
 
+- **Awareness**- Educating others and sharing information in order to encourage positive behavior change.
+
 - **Civic Education** – Educating youth on different civic engagement activities, including 1. Participating in community problem solving, 2. Regular volunteering, 3. Active membership in groups or associations, 4. Participating in fund-raising activities, or 5. Engaging local officials or leaders in decision making.
 
 - **Civic Engagement** - Individual or collective actions to improve the wellbeing of communities or nations; can include a broad range of activities.
@@ -18,6 +20,8 @@ We frequently use the following terms interchangeably when discussing service. L
 - **Community Engagement** - Community or external sources of support including: family, teachers, leaders, peers, other caring adults such as coaches or mentors; supportive neighborhoods, their school environment, supporting organizations and programs; and safe places to spend free time. See also the [Community Engagement Tip Sheet](http://inside.peacecorps.gov/index.cfm?viewDocument&document_id=56503).
 
 - **National Service** –A structured civic service program hosted by the national government assigning volunteers to areas of defined need. See also the Volunteerism and Service Examples by Country.
+
+- **Philanthropy**- Collecting and donating money or materials to an existing charity or organization. 
 
 - **Service** – Carrying out service to benefit others or one's community without the expectation of external rewards. 
 
